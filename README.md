@@ -16,6 +16,8 @@ git add .
 
 git status
 
+git commit  -m "something you wnat to say"
+
 git push
 
 thoses are main uses, also i come want to brief the vim also
